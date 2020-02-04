@@ -1,4 +1,4 @@
-#!/home/marnec/Projects/DisProt/notebooks/.venv/bin/python
+#!/home/marnec/Projects/disprotnotebook/.venv/bin/python
 
 import sys
 import getopt
