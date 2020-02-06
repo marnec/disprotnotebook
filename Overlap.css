@@ -24,12 +24,19 @@
 }
 
 
-.output_png img {
-    width: 60% ! important;
+.output_png {
+    display: block ! important;
+    overflow-y: hidden;
+    
+    /*width: 60% ! important;*/
+
     /*height: 100% ! important;*/
 }
 
-
+.output_svg svg {
+    font-size: 1.6rem ! important;
+    /*height: 100% ! important;*/
+}
 
 .container.slides .celltoolbar, .container.slides .hide-in-slideshow {
     display: None ! important;
