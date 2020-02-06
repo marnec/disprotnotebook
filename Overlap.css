@@ -24,18 +24,18 @@
 }
 
 
-.output_png {
-    display: block ! important;
-    overflow-y: hidden;
+.output_png img {
+    /*display: block ! important;*/
+    /*overflow-y: hidden;*/
     
     /*width: 60% ! important;*/
 
-    /*height: 100% ! important;*/
+    height: 100% ! important;
 }
 
 .output_svg svg {
     font-size: 1.6rem ! important;
-    /*height: 100% ! important;*/
+    height: 100% ! important;
 }
 
 .container.slides .celltoolbar, .container.slides .hide-in-slideshow {
